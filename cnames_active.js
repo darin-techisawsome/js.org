@@ -1072,6 +1072,7 @@ var cnames_active = {
   "epoxylang": "iamsatyanchal.github.io/epoxylang",
   "eq8": "eq8.github.io",
   "eqeq": "slikts.github.io/js-equality-game",
+  "equilibrium": "darin-techisawsome.github.io/equilibrium",
   "er-api-sdk": "erbots.github.io/Er-Api-Sdk",
   "eray": "erayarslan.github.io", // noCF? (don´t add this in a new PR)
   "erdem": "erdem85.github.io",
